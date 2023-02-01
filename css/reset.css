@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-size: 1.6rem;
+    font-family: "Inter";
+}
+a{
+    text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+}
+img{
+    max-width: 100% ;
+    display: block;
+}
+button{
+    border: none;
+    cursor: pointer;
+}
+
